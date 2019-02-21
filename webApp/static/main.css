@@ -1,0 +1,10 @@
+body {
+  padding-top: 56px;
+  word-wrap: break-word;
+}
+
+.posted {
+	padding-bottom: 4px;
+	margin-bottom: 16px;
+	border-bottom: 1px solid rgba(0,0,0,.1);
+}
